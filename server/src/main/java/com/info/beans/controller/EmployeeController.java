@@ -38,7 +38,7 @@ public class EmployeeController {
 	
 	@GetMapping("/authenticate")
 	public String  isAppAuthenticated() {
-		  dsvndskbnkldsnb
+	
 		return "hello";
 	}
 	
