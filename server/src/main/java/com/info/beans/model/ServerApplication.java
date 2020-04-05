@@ -11,7 +11,6 @@ import com.info.beans.config.EmployeeConfig;
 public class ServerApplication {
   
  	 public static void main(String[] args) {
-		 System.out.println("+++++++++++++++++++++++++++++++++++++++="+args[0]);
 		SpringApplication.run(ServerApplication.class, args);
 	}
 }
