@@ -44,7 +44,6 @@ public class EmployeeController {
 	
 	@GetMapping("/saf")
 	public String  isAppAuthenticate() {
-		msa;lasm;glmsd;lgm;dsmgk;ldsm;glmds;lgmsdk;mgklsdmglkdsgsdmgdsmgklsdmg
-		return "hello";
+			return "hello";
 	}
 }
