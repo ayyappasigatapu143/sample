@@ -12,7 +12,8 @@ public class ServerApplication {
   
  	 public static void main(String[] args) {
 
- System.getProperty("env.name");
+         String x=System.getProperty("env.name");
+        System.out.println("sacjasnvjnsajv"+x);
 
                 
 		SpringApplication.run(ServerApplication.class, args);
