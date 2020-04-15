@@ -73,6 +73,12 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 
+      <plugin>
+        <groupId>org.codehaus.sonar</groupId>
+        <artifactId>sonar-maven-plugin</artifactId>
+        <version>2.5</version>
+      </plugin>
+   
 			<!-- Génération du Metamodel QueryDSL -->
 			<plugin>
 				<groupId>org.bsc.maven</groupId>

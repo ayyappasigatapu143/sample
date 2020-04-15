@@ -1,8 +1,6 @@
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\dao\EmployeeDao.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\EmployeeConfig.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\controller\EmployeeController.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\security\SecurityConfig.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\service\EmployeeService.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\tes\Authentication.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\tes\Employee.java
-C:\Users\Ayyappa\Downloads\Angular2-SpringBoot-Example-master\server\src\main\java\com\mzouabi\ng2\server\tes\ServerApplication.java
+E:\project\server\src\main\java\com\info\beans\config\EmployeeConfig.java
+E:\project\server\src\main\java\com\info\beans\model\Employee.java
+E:\project\server\src\main\java\com\info\beans\model\ServerApplication.java
+E:\project\server\src\main\java\com\info\beans\dao\EmployeeDao.java
+E:\project\server\src\main\java\com\info\beans\controller\EmployeeController.java
+E:\project\server\src\main\java\com\info\beans\service\EmployeeService.java
