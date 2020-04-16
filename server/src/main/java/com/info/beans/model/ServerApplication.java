@@ -10,12 +10,7 @@ import com.info.beans.config.EmployeeConfig;
 @Import(EmployeeConfig.class)
 public class ServerApplication {
   
- 	 public static void main(String[] args) {
-
-         String x=System.getProperty("env.name");
-        System.out.println("sacjasnvjnsajv++++++++++++++++++++++++++++++++++++++++++++"+x+args[0]);
-
-                
+ 	 public static void main(String[] args) {          
 		SpringApplication.run(ServerApplication.class, args);
 	}
 }
